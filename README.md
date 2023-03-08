@@ -5,7 +5,7 @@
 
 💡 &nbsp; I'm a computer science and ALX student trying his best to become a great software engineer. \
 💻 &nbsp;I'm on track for learning more about Artificial Intelligence and Machine learning.\
-✍️ &nbsp;In my free time, I play football and swimming as my hobbies.\
+✍️ &nbsp;In my free time, I play football and swim as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at imad.oulasri01@gmail.com. I'll try to respond as soon as possible!\
 

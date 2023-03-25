@@ -29,7 +29,7 @@
 
 <a href="https://www.linkedin.com/in/imad-oulasri-54381122b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:imad.oulasri01@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/imad._.evh/"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/imad._.evh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the badge&logo=instagram&logoColor=white"/></a> &nbsp;
 
 
 
